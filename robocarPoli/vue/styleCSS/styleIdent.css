@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+*{
+	box-sizing: border-box;
+	font-family: 'Noto Sans JP', sans-serif;
+	background-color: rgb(208, 222, 235);
+}
+
+.imgVoiture{
+	max-height: 195px;
+}
+
+h3{
+	color: rgb(35, 55, 122);
+	font-size: 2em;
+	text-align: center;
+	padding-top: 40px;
+	padding-bottom: 22px;
+	margin-bottom: 0px;
+}
+
+
+.logo{
+	max-height: 100px;
+}
+
+input{
+    background-color: white !important;
+}
